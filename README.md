@@ -24,9 +24,13 @@ A arquitetura do projeto foi desenhada para garantir consumo mínimo de memória
 
 ## 🚀 Como Executar o App Localmente
 
-Como a aplicação roda localmente na sua máquina, você pode iniciar o servidor e a interface de configuração seguindo os passos abaixo:
+Por ser uma aplicação focada na experiência local, ela pode ser instalada diretamente no seu computador para uso imediato. Baixe a versão correspondente ao seu sistema operacional através dos links oficiais abaixo:
 
+Windows: 📥 Baixar executável para Windows (x64)
 
+Linux: 📥 Baixar binário para Linux (x64)
+
+Após o download, basta executar o arquivo para iniciar o aplicativo.
 
 ---
 <p align="center">Developed by <b>Ldov - AI & IT Solutions</b> </p>
